@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+## Project Overview
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes
@@ -8,11 +8,11 @@
 4. Calculate the percentage of votes each candidate won.
 5. Determin the winner of the election based on popular vote.
 
-##Resources
+## Resources
 -Data Source: election_results.csv
 -Software: Python 3.9.2, Visual Studio Code, 1.38.1
 
-##Summary
+## Summary
 The analysis of the election show that:
 -There were x votes cast in the election
 -The candidates were:
@@ -22,8 +22,8 @@ The analysis of the election show that:
  The winnder of the election was
   -Candidate who reciceved & of the votes and - number of votes
  
- ##Challenge overview
+ ## Challenge overview
  
- ##Challege Summary
+ ## Challege Summary
  
  
