@@ -70,6 +70,7 @@ The analysis of the election show that:
 	  - Arapahoe: 6.7% 
 
 This data can also be seen in the text file: 
+
 ![Image_10](https://user-images.githubusercontent.com/79758494/113525916-51c13800-957d-11eb-9b5b-eef42d35cd99.PNG)
 
 ## Election Audit Summary
