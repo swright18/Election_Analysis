@@ -19,9 +19,11 @@ In addition, the election commission requested the following:
 -Software: Python 3.9.2, Visual Studio Code, 1.38.1
 
 ## Analysis of Election Audit
-- The analysis started by adding our dependencies, assign a variable to load a file from a path and assign a variable to save the file to a path.![Image_1](https://user-images.githubusercontent.com/79758494/113524971-d0b37200-9577-11eb-8a55-e7eb9f5b2436.PNG)
+- The analysis started by adding our dependencies, assign a variable to load a file from a path and assign a variable to save the file to a path.
+![Image_1](https://user-images.githubusercontent.com/79758494/113524971-d0b37200-9577-11eb-8a55-e7eb9f5b2436.PNG)
 
-- The total votes counter was then initialized. A list was created in order to identify all candidates names, and a dictionary was created for candidate votes. Another list was created in order to identify all counties within the data, and a dictionary was created for county votes. ![Image_2](https://user-images.githubusercontent.com/79758494/113525126-c9409880-9578-11eb-86e6-2c2dc1ff1560.PNG)
+- The total votes counter was then initialized. A list was created in order to identify all candidates names, and a dictionary was created for candidate votes. Another list was created in order to identify all counties within the data, and a dictionary was created for county votes. 
+![Image_2](https://user-images.githubusercontent.com/79758494/113525126-c9409880-9578-11eb-86e6-2c2dc1ff1560.PNG)
 
 - In order to track the winning candidate, vote count, and percentage, variables were created. Variables were also created to track the largest county and county voter turnout. 
 ![Image_3](https://user-images.githubusercontent.com/79758494/113525213-410ec300-9579-11eb-8492-e1c3c1daf847.PNG)
